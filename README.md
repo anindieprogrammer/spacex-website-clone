@@ -22,7 +22,7 @@ This is a clone of SpaceX website.
 
 ### Links
 
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://soft-fenglisu-5520c9.netlify.app)
 
 ## My process
 
